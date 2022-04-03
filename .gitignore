@@ -2,10 +2,11 @@
 /venv/
 /.idea/
 /__pycache__/
+/crypto/__pycache__/
+/walls/__pycache__/
 /binance.csv
 /images/wallpaper.png
 /images/widgets/chart1.png
-/images/widgets/chart2.png
 /images/widgets/pie.png
 /images/widgets/table.png
 /wallet.txt
